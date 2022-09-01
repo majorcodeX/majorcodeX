@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majorcodeX
-- 👀 I’m interested in javascript,web development,systems security and networking 
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in web development,systems security and networking 
+- 🌱 I’m currently learning html 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
